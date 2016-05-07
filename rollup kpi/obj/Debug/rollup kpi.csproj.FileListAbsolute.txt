@@ -1,0 +1,9 @@
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\bin\Debug\rollup kpi.exe.config
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\bin\Debug\rollup kpi.exe
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\bin\Debug\rollup kpi.pdb
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup_kpi.Properties.Resources.resources
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup kpi.csproj.GenerateResource.Cache
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup kpi.exe
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup kpi.pdb
+c:\users\eceos 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup_kpi.Form1.resources
+C:\Users\eCEOs 002\documents\visual studio 2012\Projects\rollup kpi\rollup kpi\obj\Debug\rollup kpi.csprojResolveAssemblyReference.cache
